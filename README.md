@@ -8,13 +8,13 @@ Im Asghar Ale, im a passionate backend developer using python, django and DRF Do
 
 ---
 
-## ⌨ Languages and Tools
+### ⌨ Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,js,vue,linux,cpp,postgresql,mysql,docker,arch,debian,git,github,html,css,md&perline=8)](https://skillicons.dev)
 
 #
 
-## 📊 Stats 
+### 📊 Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=asgharale&show_icons=true&theme=transparent" alt="Asghar's GitHub stats" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgharale&layout=compact" alt="Asghar's Top Languagess" width="300" />
 
 ---
