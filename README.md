@@ -15,9 +15,8 @@ Im Asghar Ale, im a passionate backend developer using python, django and DRF Do
 #
 
 ### 📊 Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=asgharale&show_icons=true&theme=transparent" alt="Asghar's GitHub stats" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgharale&layout=compact" alt="Asghar's Top Languagess" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=asgharale&show_icons=true&theme=transparent" alt="Asghar's GitHub stats" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asgharale&layout=compact&theme=transparent" alt="Asghar's Top Languagess" width="300" />
 
----
 ### ☎ Contact
 
 <a href="https://linkedin.com/in/asghar-ale" target="_blank"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0a66c2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
