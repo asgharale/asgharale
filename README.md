@@ -3,14 +3,14 @@
 **`Web Developer (Django/VueJS/DRF/etc)`**
 
 <p align="left">
-Im Asghar Ale, im a passionate backend developer using python, django and DRF Docker and some databases im also have a bit exprience at frontend development using javascript and VueJS, and im a linux user/lover, im a Computer Engineer Student and i have also worked with these techs C++/C/MariaDB/PostgreSQL/MYSQL/Arch/Ubuntu/HTML/CSS/MarkDown/GIT/GITHUB/Kotlin
+Im Asghar Ale, i'm a passionate backend developer using python, django and DRF Docker and some databases i'm also have a bit exprience at frontend development using javascript and VueJS, and im a linux user/lover, im a Computer Engineer Student and i have also worked with these techs TypeScript/C++/C/MariaDB/PostgreSQL/MYSQL/Arch/Ubuntu/HTML/CSS/MarkDown/GIT/GITHUB/Kotlin
 </p>
 
 ---
 
 ### ⌨ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,js,vue,linux,cpp,postgresql,mysql,docker,arch,debian,git,github,html,css,md&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,vue,ts,linux,cpp,postgresql,mysql,docker,arch,debian,git,github,html,css&perline=8)](https://skillicons.dev)
 
 #
 
