@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Asghar Ale
 
-**`Web Developer (Django/DRF/VueJS)`**
+**`Backend Developer (Django/DRF)`**
 
 <p align="left">
 Im Asghar Ale, i'm a passionate backend developer using python, django and DRF Docker and some databases i'm also have a bit exprience at frontend development using javascript and VueJS, and im a linux user/lover, im a Computer Engineer Student and i have also worked with these techs TypeScript/C++/C/MariaDB/PostgreSQL/MYSQL/Arch/Ubuntu/HTML/CSS/MarkDown/GIT/GITHUB/Kotlin
