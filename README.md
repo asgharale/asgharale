@@ -1,9 +1,9 @@
-## Hi there 👋, I'm Asghar Ale
+# Asghar Ale
 
 **`Backend Developer (Django/DRF)`**
 
 <p align="left">
-Im Asghar Ale, i'm a passionate backend developer using python, django and DRF Docker and i have worked with some databases such as mysql, postgresql, mongodb,... i'm also have a bit exprience at frontend development using javascript and VueJS as much as i need in my own projects :), im also a linux user/lover, im studing in Computer Engineer in tehran and i have also worked with these techs TypeScript/nuxtjs/C++/qt5/C/MariaDB/Arch/Ubuntu/gentoo/centos/HTML/CSS/MarkDown/GIT/GITHUB
+Im Asghar Ale, i'm a passionate backend developer using c#/asp.net, python/django/DRF Docker and i have worked with mysql,postgresql,sqlserver,mongodb,... i'm also have a bit exprience at frontend development using javascript and VueJS as much as i needed in my own projects :), im also a linux user/lover, im studing in Computer Engineer in tehran and i have also worked with these techs TypeScript/nuxtjs/C++/qt5/C/MariaDB/Arch/Ubuntu/gentoo/centos/HTML/CSS/MarkDown/GIT/GITHUB
 </p>
 
 ---
