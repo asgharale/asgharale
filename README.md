@@ -2,9 +2,27 @@
 
 **`Developer`**
 
-<p align="left">
-Im Asghar Ale, an open source commiunity lover and passionate web developer using c#/asp.net, python/django/DRF, Vue/NuxtJS <br> i have worked with postgresql,sqlserver,mongodb,... i'm a linux lover atually :) using arch from 1nth grade! and now studing in Computer Engineer in tehran and i have also worked in these fields a little bit of networking and network+, CEH, ML and LLM and designed some rag systems :)  also have exprience in /C++/Kotlin/C/MariaDB/Arch/Ubuntu/gentoo/centos/HTML/CSS/MarkDown/Redis
-</p>
+I'm Asghar Ale, an open-source community enthusiast and passionate web developer.
+
+I mainly work with:
+- C# / ASP.NET
+- Python / Django / Django REST Framework
+- Vue.js / Nuxt.js
+
+I have experience working with databases such as PostgreSQL, SQL Server, MongoDB, MariaDB, and Redis.
+
+I'm also a Linux enthusiast — using Arch Linux since middle school — and currently studying Computer Engineering in Tehran.
+
+Beyond web development, I've explored:
+- Networking & Network+
+- CEH fundamentals
+- Machine Learning & LLMs
+- Designing RAG systems
+
+I also have experience with:
+C++, Kotlin, C, Arch Linux, Ubuntu, Gentoo, CentOS, HTML, CSS, Markdown, and more.
+
+I enjoy building scalable systems, contributing to open source, and continuously learning new technologies.
 
 ### ☎ Contact
 <a href="https://linkedin.com/in/asghar-ale" target="_blank"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0a66c2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
