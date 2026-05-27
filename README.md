@@ -3,7 +3,7 @@
 **`Developer`**
 
 <p align="left">
-Im Asghar Ale, an open source commiunity lover and passionate backend developer using c#/asp.net, python/django/DRF Docker and i have worked with postgresql,sqlserver,mongodb,... i'm also have a bit exprience at frontend development using VudJS and NuxtJS as much as i needed in my own projects :), im also a linux user/lover, im studing in Computer Engineer in tehran and i have also worked with these techs C++/Kotlin/C/MariaDB/Arch/Ubuntu/gentoo/centos/HTML/CSS/MarkDown/Redis
+Im Asghar Ale, an open source commiunity lover and passionate web developer using c#/asp.net, python/django/DRF, Vue/NuxtJS <br> i have worked with postgresql,sqlserver,mongodb,... i'm a linux lover atually :) using arch from 1nth grade! and now studing in Computer Engineer in tehran and i have also worked in these fields a little bit of networking and network+, CEH, ML and LLM and designed some rag systems :)  also have exprience in /C++/Kotlin/C/MariaDB/Arch/Ubuntu/gentoo/centos/HTML/CSS/MarkDown/Redis
 </p>
 
 ### ☎ Contact
