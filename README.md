@@ -4,25 +4,13 @@
 
 I'm Asghar Ale, an open-source community enthusiast and passionate web developer.
 
-I mainly work with:
-- C# / ASP.NET
-- Python / Django / Django REST Framework
-- Vue.js / Nuxt.js
+Passionate Backend Developer with professional experience building large-scale systems using .NET Core and Django REST Framework (DRF). Strong focus on data consistency, scalability, performance optimization, and clean architecture principles. Experienced with Docker, RabbitMQ, Redis, WebSockets, and real-time messaging platforms.
 
-I have experience working with databases such as PostgreSQL, SQL Server, MongoDB, MariaDB, and Redis.
+Skilled in integrating and maintaining a wide range of third-party APIs and services, including ZarinPal, Neshan, Google Maps, Sadad, Mojavezha, Telegram, Bale, and other enterprise-grade platforms.
 
-I'm also a Linux enthusiast — using Arch Linux since middle school — and currently studying Computer Engineering in Tehran.
+In addition to backend development, I have experience as an ML & Data Engineer, developing AI-powered solutions, RAG systems, and open-source Rust and Python projects, including university AI agents and intelligent knowledge retrieval platforms.
 
-Beyond web development, I've explored:
-- Networking & Network+
-- CEH fundamentals
-- Machine Learning & LLMs
-- Designing RAG systems
-
-I also have experience with:
-C++, Kotlin, C, Arch Linux, Ubuntu, Gentoo, CentOS, HTML, CSS, Markdown, and more.
-
-I enjoy building scalable systems, contributing to open source, and continuously learning new technologies.
+Also experienced in frontend development with Nuxt.js (Vue.js), enabling effective collaboration across the full software stack. An active open-source contributor, Linux enthusiast, and lifelong learner dedicated to building reliable, high-performance software systems.
 
 ### ☎ Contact
 <a href="https://linkedin.com/in/asghar-ale" target="_blank"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0a66c2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
